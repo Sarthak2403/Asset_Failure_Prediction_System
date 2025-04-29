@@ -33,8 +33,8 @@ transit-safety-analytics/
 
 1. Clone the repository:
    ```bash
-   gh repo clone Sarthak2403/Transit_Infrastructure_Safety_Event_Tracker
-   cd Transit_Infrastructure_Safety_Event_Tracker
+   gh repo clone Sarthak2403/Asset_Failure_Prediction_System
+   cd Asset_Failure_Prediction_System
 
 2. Create a virtual environment:
    ```bash
