@@ -47,9 +47,9 @@ transit-safety-analytics/
    ```
 
 4. Download the data from:
-```
-https://catalog.data.gov/dataset/cmapss-jet-engine-simulated-data
-```
+   ```
+   https://catalog.data.gov/dataset/cmapss-jet-engine-simulated-data
+   ```
 
 ## Usage
 1. Preprocess sensor data:
